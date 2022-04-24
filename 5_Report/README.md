@@ -61,3 +61,6 @@ A door sensor is a peripheral security sensor that lets an alarm system know whe
 
 ## Simulation Diagram
 ![Screenshot (207)](https://user-images.githubusercontent.com/102669391/164992277-3974fbf5-0d2f-4faa-bb8f-02cb9fc7d1f7.png)
+
+## Test Plan
+![Screenshot (206)](https://user-images.githubusercontent.com/102669391/164992074-1d9384c7-a075-48ea-b5fc-8859e3716ce1.png)
