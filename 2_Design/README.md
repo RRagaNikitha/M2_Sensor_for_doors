@@ -11,4 +11,6 @@
 ## Flow Chart
 ![image](https://user-images.githubusercontent.com/102669391/164991511-7727399c-3aae-4ac9-a47f-3136c1014cab.png)
 
+## Simulation Diagram
+![Screenshot (207)](https://user-images.githubusercontent.com/102669391/164992277-3974fbf5-0d2f-4faa-bb8f-02cb9fc7d1f7.png)
 
