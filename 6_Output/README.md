@@ -1,5 +1,5 @@
 ## SimulIDE Version- 1.0.0-RC2 R1007
-## Outpur Images
+## Output Images
 * Case 1 - Switch in open state and power supply is not provided---> LED in off state
 ![Screenshot (208)](https://user-images.githubusercontent.com/102669391/164992855-f00cc4fe-230b-46f6-b5f1-d366a75bd33e.png)
 
